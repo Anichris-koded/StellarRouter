@@ -2392,7 +2392,7 @@ dependencies = [
 name = "router-common"
 version = "0.1.0"
 dependencies = [
- "ed25519-dalek 2.2.0",
+ "ed25519-dalek 3.0.0",
  "soroban-sdk",
 ]
 
